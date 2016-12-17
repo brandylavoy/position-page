@@ -1,0 +1,22 @@
+.container {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+nav {
+    height: 60px;
+    position: fixed;
+    background-color: grey;
+    width: 100%;
+}
+
+nav img {
+    width: auto;
+    height: auto;
+}
+
+.box {
+    width: 600px;
+    height: 300px;
+    border: 3px dashed green;
+}
